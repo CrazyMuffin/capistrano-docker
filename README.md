@@ -24,7 +24,6 @@ This image is pre-configured Capistrano [https://github.com/capistrano/capistran
 
 ### Bitbucket Pipelines
 ```
-deploy-dev1: &deploy-dev1
 pipelines:
   branches:
     develop:
